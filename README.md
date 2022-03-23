@@ -1,4 +1,3 @@
-# elevator-js
 # Elevator Management System in Javascript
 
 This lift(elevator) management application is for fifteen-floor building with two-level basement parking.
